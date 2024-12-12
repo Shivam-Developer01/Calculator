@@ -1,0 +1,12 @@
+.Display{
+    font-size: 32px;
+    width: 100%;
+}
+
+.input{
+    background-color: rgb(92, 107, 201);
+    color: rgba(0, 0, 0, 0.7);
+    height: 180px;
+    border-radius: 20px;
+    margin-bottom: 3rem;
+}

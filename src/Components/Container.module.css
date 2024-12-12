@@ -1,0 +1,9 @@
+.Container{
+    background-color: gray;
+    border: 5px solid rgba(0, 0, 0, 0.6);
+    border-radius: 20px;
+    width: 400px;
+    min-height: 80vh;
+    margin: 2em 5rem;
+    padding: 10px;
+}
